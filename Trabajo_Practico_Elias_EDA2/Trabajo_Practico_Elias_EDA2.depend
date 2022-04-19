@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1649027971 source:c:\users\shiimy-woozie\documents\proyecto_eda2\trabajo_practico_elias_eda2\ecuacionlineal_raphson.cpp
+	"EcuacionLineal_Raphson.h"
+
+1649028284 c:\users\shiimy-woozie\documents\proyecto_eda2\trabajo_practico_elias_eda2\ecuacionlineal_raphson.h
+	<cmath>
+
+1649028718 source:c:\users\shiimy-woozie\documents\proyecto_eda2\trabajo_practico_elias_eda2\calcularraiz_raphson.cpp
+	"Metodo_Raphson.h"
+
+1649031443 c:\users\shiimy-woozie\documents\proyecto_eda2\trabajo_practico_elias_eda2\metodo_raphson.h
+	<cmath>
+	<iostream>
+	<tuple>
+	"EcuacionLineal_Raphson.h"
+
+1649028014 source:c:\users\shiimy-woozie\documents\proyecto_eda2\trabajo_practico_elias_eda2\main.cpp
+	<iostream>
+	<cmath>
+	<tuple>
+	"EcuacionLineal_Raphson.h"
+	"Metodo_Raphson.h"
+
+1650314612 source:d:\a.universidad 2022 1er cuatri\estructura de datos y algoritmos ii\trabajo_practico_elias_eda2\calcularraiz_raphson.cpp
+	"Metodo_Raphson.h"
+
+1650075716 d:\a.universidad 2022 1er cuatri\estructura de datos y algoritmos ii\trabajo_practico_elias_eda2\metodo_raphson.h
+	<cmath>
+	<iostream>
+	<tuple>
+	"EcuacionLineal_Raphson.h"
+
+1650074971 d:\a.universidad 2022 1er cuatri\estructura de datos y algoritmos ii\trabajo_practico_elias_eda2\ecuacionlineal_raphson.h
+	<cmath>
+
+1650078804 source:d:\a.universidad 2022 1er cuatri\estructura de datos y algoritmos ii\trabajo_practico_elias_eda2\ecuacionlineal_raphson.cpp
+	"EcuacionLineal_Raphson.h"
+
+1650306389 source:d:\a.universidad 2022 1er cuatri\estructura de datos y algoritmos ii\trabajo_practico_elias_eda2\main.cpp
+	<iostream>
+	<cmath>
+	<tuple>
+	"EcuacionLineal_Raphson.h"
+	"Metodo_Raphson.h"
+
